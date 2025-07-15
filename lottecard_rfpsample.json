@@ -1,0 +1,51 @@
+{
+  "company":            "롯데카드",
+  "request_date":       "2025-05-22",
+  "request_type":       "강사파견",
+  "course_name":        "생성형 AI 리스킬링",
+  "topics":             ["gen_ai"],
+  "description":        "생성형 AI를 활용한 업무 역량 강화",
+  "target": {
+    "level":            "mid",
+    "size":             15
+  },
+  "learning_objectives":["생성형AI 내부 인력의 전문적 육성을 통해 인력 POOL을 확보"],
+  "scope_of_work":      ["커리큘럼구성", "강사파견"],
+  "curriculum_items": [
+    { "title":          "LLM", "duration_hours": 24},
+    { "title":          "RAG", "duration_hours": 32},
+    { "title":          "AI Agent", "duration_hours": 32},
+    { "title":          "MCP * 서비스 배포", "duration_hours": 8}
+
+  ],
+  "delivery_mode":      "Offline_Seminar",
+  "location":           "롯데카드 본사 지정강의장",
+  "schedule": {
+    "type":             "period",
+    "period":           "2025-06-20/2025-07-01 시작",
+   
+  },
+  "budget": {
+    "amount":           null,
+    "currency":         "KRW"
+  },
+  "instructor_requirements":["과정별 강사 1~4명"],
+  "materials":         ["교재 PFD 제공"],
+  "assessments":       ["사전 입과테스트 및 중간시험, 종료시험 필요"],
+  "quality_sla":       [],
+  "success_metrics":   [],
+  "submission_deadline":"2025-05-28T15:00",
+  "contacts": {
+    "requester": {"name":"오진선 프로","email":"js1216.oh@multicampus.com","phone":"02-6262-9740"},
+    "purchasing": {
+      "name": "",
+      "email": "",
+      "phone": ""
+    }
+  }
+}
+
+
+
+
+
